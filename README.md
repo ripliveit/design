@@ -1,2 +1,2 @@
-# design
-Collect new idea and material about design
+# Design
+Collect new ideas and materials about design of Riplive.it
